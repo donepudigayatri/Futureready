@@ -1,4 +1,4 @@
-# HappyTours Travels Bot:
+# FreestyleTours Travels Bot:
 
 Create a Web application with a chatbot feature that Travellers may use to get information about vacation destinations and packages related to a given region.
 
