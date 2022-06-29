@@ -1,6 +1,6 @@
 # HappyTours Travels Bot:
 
-Create a Web application for the Travellers to use the application for obtain information about the travelling places and also the package information regarding to the specific location through chatbot facility.
+Create a Web application with a chatbot feature that Travellers may use to get information about vacation destinations and packages related to a given region.
 
 # Azure services used in this project
 
@@ -28,6 +28,11 @@ Project Link:
 
 # Sample images of the project :
 ![image](https://user-images.githubusercontent.com/108270510/176422179-fc258226-2b69-419d-b211-b491b09db3a1.png)
+![image](https://user-images.githubusercontent.com/108270510/176422384-fba6abed-4a8a-4d29-86bb-57adc8991dc4.png)
+![image](https://user-images.githubusercontent.com/108270510/176422451-0b74780f-0ba3-4dd5-b9ff-a8ed389621a8.png)
+![image](https://user-images.githubusercontent.com/108270510/176422721-3ed33ac3-b515-4bb5-9515-0732cc71d730.png)
+
+
 
 
 
