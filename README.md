@@ -27,5 +27,7 @@ Following are some key features of Azure Static Web Apps that made me choose thi
 Project Link:
 
 # Sample images of the project :
+![image](https://user-images.githubusercontent.com/108270510/176422179-fc258226-2b69-419d-b211-b491b09db3a1.png)
+
 
 
